@@ -62,4 +62,7 @@ The dataset used in this project contains:
 - Labour participation dropped in many regions, indicating uncertainty or reverse migration.
 - Some states showed faster recovery, pointing to varied economic resilience.
 
-
+📬 Contact: 
+[rahulchoudhary5266@gmail.com]
+(mail to: rahulchoudhary5266@gmail.com) 
+📍 Mumbai, Maharashtra, India 🔗 LinkedIn
