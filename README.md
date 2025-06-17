@@ -65,5 +65,5 @@ The dataset used in this project contains:
 📬 Contact: 
 [rahulchoudhary5266@gmail.com]
 (mail to: rahulchoudhary5266@gmail.com) 
-🔗 LinkedIn
+🔗 https://www.linkedin.com/in/rahul-choudhary-03b571251/
 📍 Mumbai, Maharashtra, India
